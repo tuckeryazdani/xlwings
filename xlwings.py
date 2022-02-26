@@ -8,7 +8,6 @@ import random
 # - Calculates examples of formula use:
 # - XIRR,XNPV,Index-Match,SUMIF(Positive),COUNTIF(Positive),Max,Min
 
-
 # Ideas to mention 
 # Python Anywhere to run the code constantly from the cloud or windows scheduler to run locally
 # Pandas for DataFrame and SQL
